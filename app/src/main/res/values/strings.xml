@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTestApplication</string>
+    <string name="display_string">Hello Team!</string>
+    <string name="button_name">Eric</string>
+</resources>
